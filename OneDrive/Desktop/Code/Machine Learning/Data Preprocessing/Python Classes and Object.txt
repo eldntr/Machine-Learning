@@ -1,0 +1,10 @@
+A Class is the model or blue print or something we want to 
+build. An object is an istance of the class.
+
+A house (object) that was build by following the instruction
+of the construction plan (class).
+
+A method is a tool we can use on the object to complete 
+a specific action. A method can also be seen as a function
+that is applied onto the object. Takes some input (class) and returns 
+some output.
